@@ -5,6 +5,7 @@
 
 using namespace std;
 // kkkk
+// ffffffffffffff
 
 int bin_to_dec(string bin)
 {
